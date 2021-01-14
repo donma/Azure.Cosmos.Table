@@ -1,4 +1,4 @@
-# No2DarkBlue - DTableEntity
+# DTableEntity
 
 Dependency :
 
@@ -11,7 +11,7 @@ Dependency :
 
 
 
-1. decimal 型別的處理，自動變成 string 儲存，還原後變回 decimal 型別
+1. decimal 型別的處理，自動變成 string 儲存，還原後變回 decimal 型別 
 
 2. 將 DateTime 型別取回後轉成 local datetime
 
